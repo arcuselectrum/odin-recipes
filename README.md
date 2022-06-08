@@ -7,4 +7,4 @@ Prewriteup -
 	I already know how to do this so hopefully it isn't too hard.
 
 What I hope to learn -
-	I hope to freshen up my html knowledge.
+	I hope to freshen up my html and git knowledge.
